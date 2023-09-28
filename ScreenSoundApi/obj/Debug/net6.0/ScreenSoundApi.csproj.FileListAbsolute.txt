@@ -1,0 +1,14 @@
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.exe
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.deps.json
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.runtimeconfig.json
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.dll
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.pdb
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.GeneratedMSBuildEditorConfig.editorconfig
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.AssemblyInfoInputs.cache
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.AssemblyInfo.cs
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.csproj.CoreCompileInputs.cache
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.dll
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\refint\ScreenSoundApi.dll
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.pdb
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.genruntimeconfig.cache
+A:\projetos\C Sharp\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ref\ScreenSoundApi.dll
