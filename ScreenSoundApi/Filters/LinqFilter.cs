@@ -17,10 +17,21 @@ internal class LinqFilter
     {
         var artistsForGenre = musics.Where(musics => musics.Genre!.Contains(genre)).Select(musics => musics.Artist).Distinct().ToList();
 
-        Console.WriteLine("---Exibindo Artistas Por Gênero---");
+        Console.WriteLine("---Exibindo Artistas Por Gênero---\n");
         foreach(var artist in artistsForGenre)
         {
             Console.WriteLine($"Artista - {artist}");
+        }
+    }
+
+    public static void FitrarMusicaporArtista(List<Music> musics, string artistName)
+    {
+        var artistMusic = musics.Where(musics => musics.Artist!.Equals(artistName)).ToList();
+
+        Console.WriteLine($"Musicas de {artistName}");
+        foreach(var music in artistMusic)
+        {
+            Console.WriteLine($"- {music.Name}");
         }
     }
 }
