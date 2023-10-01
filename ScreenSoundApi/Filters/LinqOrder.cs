@@ -13,7 +13,5 @@ internal class LinqOrder
         {
             Console.WriteLine($"Artista - {artist}");
         }
-
-
     }
 }
